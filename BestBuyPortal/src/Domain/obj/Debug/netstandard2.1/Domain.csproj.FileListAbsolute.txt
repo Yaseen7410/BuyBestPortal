@@ -1,0 +1,18 @@
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\src\Domain\bin\Debug\netstandard2.1\Domain.deps.json
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\src\Domain\bin\Debug\netstandard2.1\Domain.dll
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\src\Domain\bin\Debug\netstandard2.1\Domain.pdb
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\src\Domain\obj\Debug\netstandard2.1\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\src\Domain\obj\Debug\netstandard2.1\Domain.AssemblyInfoInputs.cache
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\src\Domain\obj\Debug\netstandard2.1\Domain.AssemblyInfo.cs
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\src\Domain\obj\Debug\netstandard2.1\Domain.csproj.CoreCompileInputs.cache
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\src\Domain\obj\Debug\netstandard2.1\Domain.dll
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\src\Domain\obj\Debug\netstandard2.1\Domain.pdb
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\src\Domain\obj\Debug\netstandard2.1\Domain.csproj.AssemblyReference.cache
+C:\Yash CS\New Project\BestBuyPortal\src\Domain\bin\Debug\netstandard2.1\Domain.deps.json
+C:\Yash CS\New Project\BestBuyPortal\src\Domain\bin\Debug\netstandard2.1\Domain.dll
+C:\Yash CS\New Project\BestBuyPortal\src\Domain\bin\Debug\netstandard2.1\Domain.pdb
+C:\Yash CS\New Project\BestBuyPortal\src\Domain\obj\Debug\netstandard2.1\Domain.AssemblyInfoInputs.cache
+C:\Yash CS\New Project\BestBuyPortal\src\Domain\obj\Debug\netstandard2.1\Domain.AssemblyInfo.cs
+C:\Yash CS\New Project\BestBuyPortal\src\Domain\obj\Debug\netstandard2.1\Domain.csproj.CoreCompileInputs.cache
+C:\Yash CS\New Project\BestBuyPortal\src\Domain\obj\Debug\netstandard2.1\Domain.dll
+C:\Yash CS\New Project\BestBuyPortal\src\Domain\obj\Debug\netstandard2.1\Domain.pdb

@@ -1,0 +1,25 @@
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\src\Application\bin\Debug\netstandard2.1\Application.deps.json
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\src\Application\bin\Debug\netstandard2.1\Application.dll
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\src\Application\bin\Debug\netstandard2.1\Application.pdb
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\src\Application\bin\Debug\netstandard2.1\Domain.dll
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\src\Application\bin\Debug\netstandard2.1\Domain.pdb
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\src\Application\obj\Debug\netstandard2.1\Application.csproj.AssemblyReference.cache
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\src\Application\obj\Debug\netstandard2.1\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\src\Application\obj\Debug\netstandard2.1\Application.AssemblyInfoInputs.cache
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\src\Application\obj\Debug\netstandard2.1\Application.AssemblyInfo.cs
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\src\Application\obj\Debug\netstandard2.1\Application.csproj.CoreCompileInputs.cache
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\src\Application\obj\Debug\netstandard2.1\Application.csproj.CopyComplete
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\src\Application\obj\Debug\netstandard2.1\Application.dll
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\src\Application\obj\Debug\netstandard2.1\Application.pdb
+C:\Yash CS\New Project\BestBuyPortal\src\Application\bin\Debug\netstandard2.1\Application.deps.json
+C:\Yash CS\New Project\BestBuyPortal\src\Application\bin\Debug\netstandard2.1\Application.dll
+C:\Yash CS\New Project\BestBuyPortal\src\Application\bin\Debug\netstandard2.1\Application.pdb
+C:\Yash CS\New Project\BestBuyPortal\src\Application\bin\Debug\netstandard2.1\Domain.dll
+C:\Yash CS\New Project\BestBuyPortal\src\Application\bin\Debug\netstandard2.1\Domain.pdb
+C:\Yash CS\New Project\BestBuyPortal\src\Application\obj\Debug\netstandard2.1\Application.csprojAssemblyReference.cache
+C:\Yash CS\New Project\BestBuyPortal\src\Application\obj\Debug\netstandard2.1\Application.AssemblyInfoInputs.cache
+C:\Yash CS\New Project\BestBuyPortal\src\Application\obj\Debug\netstandard2.1\Application.AssemblyInfo.cs
+C:\Yash CS\New Project\BestBuyPortal\src\Application\obj\Debug\netstandard2.1\Application.csproj.CoreCompileInputs.cache
+C:\Yash CS\New Project\BestBuyPortal\src\Application\obj\Debug\netstandard2.1\Application.csproj.CopyComplete
+C:\Yash CS\New Project\BestBuyPortal\src\Application\obj\Debug\netstandard2.1\Application.dll
+C:\Yash CS\New Project\BestBuyPortal\src\Application\obj\Debug\netstandard2.1\Application.pdb

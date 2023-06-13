@@ -1,0 +1,339 @@
+D:\Chirag Sir Team 18-10-2022\Hera-20-01-2023\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+D:\Chirag Sir Team 18-10-2022\Hera-20-01-2023\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+D:\Chirag Sir Team 18-10-2022\Hera-20-01-2023\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\nunit.engine.dll
+D:\Chirag Sir Team 18-10-2022\Hera-20-01-2023\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+D:\Chirag Sir Team 18-10-2022\Hera-20-01-2023\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\Hera.Domain.UnitTests.deps.json
+D:\Chirag Sir Team 18-10-2022\Hera-20-01-2023\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\Hera.Domain.UnitTests.runtimeconfig.json
+D:\Chirag Sir Team 18-10-2022\Hera-20-01-2023\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\Hera.Domain.UnitTests.runtimeconfig.dev.json
+D:\Chirag Sir Team 18-10-2022\Hera-20-01-2023\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\Hera.Domain.UnitTests.dll
+D:\Chirag Sir Team 18-10-2022\Hera-20-01-2023\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\Hera.Domain.UnitTests.pdb
+D:\Chirag Sir Team 18-10-2022\Hera-20-01-2023\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\FluentAssertions.dll
+D:\Chirag Sir Team 18-10-2022\Hera-20-01-2023\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\Chirag Sir Team 18-10-2022\Hera-20-01-2023\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+D:\Chirag Sir Team 18-10-2022\Hera-20-01-2023\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+D:\Chirag Sir Team 18-10-2022\Hera-20-01-2023\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\Chirag Sir Team 18-10-2022\Hera-20-01-2023\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\Chirag Sir Team 18-10-2022\Hera-20-01-2023\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\Chirag Sir Team 18-10-2022\Hera-20-01-2023\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\Chirag Sir Team 18-10-2022\Hera-20-01-2023\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+D:\Chirag Sir Team 18-10-2022\Hera-20-01-2023\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\Chirag Sir Team 18-10-2022\Hera-20-01-2023\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\testhost.dll
+D:\Chirag Sir Team 18-10-2022\Hera-20-01-2023\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Chirag Sir Team 18-10-2022\Hera-20-01-2023\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Chirag Sir Team 18-10-2022\Hera-20-01-2023\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\nunit.framework.dll
+D:\Chirag Sir Team 18-10-2022\Hera-20-01-2023\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Chirag Sir Team 18-10-2022\Hera-20-01-2023\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Chirag Sir Team 18-10-2022\Hera-20-01-2023\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+D:\Chirag Sir Team 18-10-2022\Hera-20-01-2023\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Chirag Sir Team 18-10-2022\Hera-20-01-2023\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Chirag Sir Team 18-10-2022\Hera-20-01-2023\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Chirag Sir Team 18-10-2022\Hera-20-01-2023\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Chirag Sir Team 18-10-2022\Hera-20-01-2023\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Chirag Sir Team 18-10-2022\Hera-20-01-2023\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Chirag Sir Team 18-10-2022\Hera-20-01-2023\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Chirag Sir Team 18-10-2022\Hera-20-01-2023\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Chirag Sir Team 18-10-2022\Hera-20-01-2023\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Chirag Sir Team 18-10-2022\Hera-20-01-2023\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Chirag Sir Team 18-10-2022\Hera-20-01-2023\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Chirag Sir Team 18-10-2022\Hera-20-01-2023\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Chirag Sir Team 18-10-2022\Hera-20-01-2023\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Chirag Sir Team 18-10-2022\Hera-20-01-2023\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Chirag Sir Team 18-10-2022\Hera-20-01-2023\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Chirag Sir Team 18-10-2022\Hera-20-01-2023\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Chirag Sir Team 18-10-2022\Hera-20-01-2023\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Chirag Sir Team 18-10-2022\Hera-20-01-2023\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Chirag Sir Team 18-10-2022\Hera-20-01-2023\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Chirag Sir Team 18-10-2022\Hera-20-01-2023\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Chirag Sir Team 18-10-2022\Hera-20-01-2023\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Chirag Sir Team 18-10-2022\Hera-20-01-2023\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Chirag Sir Team 18-10-2022\Hera-20-01-2023\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Chirag Sir Team 18-10-2022\Hera-20-01-2023\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Chirag Sir Team 18-10-2022\Hera-20-01-2023\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Chirag Sir Team 18-10-2022\Hera-20-01-2023\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Chirag Sir Team 18-10-2022\Hera-20-01-2023\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Chirag Sir Team 18-10-2022\Hera-20-01-2023\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Chirag Sir Team 18-10-2022\Hera-20-01-2023\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Chirag Sir Team 18-10-2022\Hera-20-01-2023\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Chirag Sir Team 18-10-2022\Hera-20-01-2023\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Chirag Sir Team 18-10-2022\Hera-20-01-2023\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Chirag Sir Team 18-10-2022\Hera-20-01-2023\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Chirag Sir Team 18-10-2022\Hera-20-01-2023\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Chirag Sir Team 18-10-2022\Hera-20-01-2023\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Chirag Sir Team 18-10-2022\Hera-20-01-2023\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Chirag Sir Team 18-10-2022\Hera-20-01-2023\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Chirag Sir Team 18-10-2022\Hera-20-01-2023\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Chirag Sir Team 18-10-2022\Hera-20-01-2023\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Chirag Sir Team 18-10-2022\Hera-20-01-2023\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Chirag Sir Team 18-10-2022\Hera-20-01-2023\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Chirag Sir Team 18-10-2022\Hera-20-01-2023\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Chirag Sir Team 18-10-2022\Hera-20-01-2023\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Chirag Sir Team 18-10-2022\Hera-20-01-2023\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Chirag Sir Team 18-10-2022\Hera-20-01-2023\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Chirag Sir Team 18-10-2022\Hera-20-01-2023\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Chirag Sir Team 18-10-2022\Hera-20-01-2023\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Chirag Sir Team 18-10-2022\Hera-20-01-2023\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Chirag Sir Team 18-10-2022\Hera-20-01-2023\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Chirag Sir Team 18-10-2022\Hera-20-01-2023\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Chirag Sir Team 18-10-2022\Hera-20-01-2023\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Chirag Sir Team 18-10-2022\Hera-20-01-2023\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Chirag Sir Team 18-10-2022\Hera-20-01-2023\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Chirag Sir Team 18-10-2022\Hera-20-01-2023\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Chirag Sir Team 18-10-2022\Hera-20-01-2023\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Chirag Sir Team 18-10-2022\Hera-20-01-2023\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Chirag Sir Team 18-10-2022\Hera-20-01-2023\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Chirag Sir Team 18-10-2022\Hera-20-01-2023\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Chirag Sir Team 18-10-2022\Hera-20-01-2023\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Chirag Sir Team 18-10-2022\Hera-20-01-2023\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Chirag Sir Team 18-10-2022\Hera-20-01-2023\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Chirag Sir Team 18-10-2022\Hera-20-01-2023\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Chirag Sir Team 18-10-2022\Hera-20-01-2023\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Chirag Sir Team 18-10-2022\Hera-20-01-2023\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Chirag Sir Team 18-10-2022\Hera-20-01-2023\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Chirag Sir Team 18-10-2022\Hera-20-01-2023\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Chirag Sir Team 18-10-2022\Hera-20-01-2023\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\Domain.dll
+D:\Chirag Sir Team 18-10-2022\Hera-20-01-2023\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\Chirag Sir Team 18-10-2022\Hera-20-01-2023\tests\Domain.UnitTests\obj\Debug\netcoreapp3.1\Domain.UnitTests.csproj.AssemblyReference.cache
+D:\Chirag Sir Team 18-10-2022\Hera-20-01-2023\tests\Domain.UnitTests\obj\Debug\netcoreapp3.1\Domain.UnitTests.GeneratedMSBuildEditorConfig.editorconfig
+D:\Chirag Sir Team 18-10-2022\Hera-20-01-2023\tests\Domain.UnitTests\obj\Debug\netcoreapp3.1\Domain.UnitTests.AssemblyInfoInputs.cache
+D:\Chirag Sir Team 18-10-2022\Hera-20-01-2023\tests\Domain.UnitTests\obj\Debug\netcoreapp3.1\Domain.UnitTests.AssemblyInfo.cs
+D:\Chirag Sir Team 18-10-2022\Hera-20-01-2023\tests\Domain.UnitTests\obj\Debug\netcoreapp3.1\Domain.UnitTests.csproj.CoreCompileInputs.cache
+D:\Chirag Sir Team 18-10-2022\Hera-20-01-2023\tests\Domain.UnitTests\obj\Debug\netcoreapp3.1\Domain.UnitTests.csproj.CopyComplete
+D:\Chirag Sir Team 18-10-2022\Hera-20-01-2023\tests\Domain.UnitTests\obj\Debug\netcoreapp3.1\Hera.Domain.UnitTests.dll
+D:\Chirag Sir Team 18-10-2022\Hera-20-01-2023\tests\Domain.UnitTests\obj\Debug\netcoreapp3.1\Hera.Domain.UnitTests.pdb
+D:\Chirag Sir Team 18-10-2022\Hera-20-01-2023\tests\Domain.UnitTests\obj\Debug\netcoreapp3.1\Domain.UnitTests.genruntimeconfig.cache
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\nunit.engine.dll
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\Domain.UnitTests.deps.json
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\Domain.UnitTests.runtimeconfig.json
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\Domain.UnitTests.runtimeconfig.dev.json
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\Domain.UnitTests.dll
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\Domain.UnitTests.pdb
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\FluentAssertions.dll
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\testhost.dll
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\nunit.framework.dll
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\Domain.dll
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\tests\Domain.UnitTests\obj\Debug\netcoreapp3.1\Domain.UnitTests.csproj.AssemblyReference.cache
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\tests\Domain.UnitTests\obj\Debug\netcoreapp3.1\Domain.UnitTests.GeneratedMSBuildEditorConfig.editorconfig
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\tests\Domain.UnitTests\obj\Debug\netcoreapp3.1\Domain.UnitTests.AssemblyInfoInputs.cache
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\tests\Domain.UnitTests\obj\Debug\netcoreapp3.1\Domain.UnitTests.AssemblyInfo.cs
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\tests\Domain.UnitTests\obj\Debug\netcoreapp3.1\Domain.UnitTests.csproj.CoreCompileInputs.cache
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\tests\Domain.UnitTests\obj\Debug\netcoreapp3.1\Domain.UnitTests.csproj.CopyComplete
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\tests\Domain.UnitTests\obj\Debug\netcoreapp3.1\Domain.UnitTests.dll
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\tests\Domain.UnitTests\obj\Debug\netcoreapp3.1\Domain.UnitTests.pdb
+D:\Chirag Sir Team 18-10-2022\BestBuyPortal\tests\Domain.UnitTests\obj\Debug\netcoreapp3.1\Domain.UnitTests.genruntimeconfig.cache
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\nunit.engine.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\Domain.UnitTests.deps.json
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\Domain.UnitTests.runtimeconfig.json
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\Domain.UnitTests.runtimeconfig.dev.json
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\Domain.UnitTests.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\Domain.UnitTests.pdb
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\FluentAssertions.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.DataProtection.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.WebUtilities.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.ObjectPool.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.WebEncoders.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\Microsoft.Net.Http.Headers.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\testhost.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\nunit.framework.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Xml.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\obj\Debug\netcoreapp3.1\Domain.UnitTests.csprojAssemblyReference.cache
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\obj\Debug\netcoreapp3.1\Domain.UnitTests.AssemblyInfoInputs.cache
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\obj\Debug\netcoreapp3.1\Domain.UnitTests.AssemblyInfo.cs
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\obj\Debug\netcoreapp3.1\Domain.UnitTests.csproj.CoreCompileInputs.cache
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\obj\Debug\netcoreapp3.1\Domain.UnitTests.csproj.CopyComplete
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\obj\Debug\netcoreapp3.1\Domain.UnitTests.dll
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\obj\Debug\netcoreapp3.1\Domain.UnitTests.pdb
+C:\Yash CS\New Project\BestBuyPortal\tests\Domain.UnitTests\obj\Debug\netcoreapp3.1\Domain.UnitTests.genruntimeconfig.cache
